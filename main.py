@@ -1,2 +1,2 @@
-print("Dan is the best!")
+print("Dan is not!")
 print("----------------")
